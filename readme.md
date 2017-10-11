@@ -1,1 +1,1 @@
-https://git.heroku.com/lillabrokolie.git
+https://lillabrokolie.herokuapp.com/
